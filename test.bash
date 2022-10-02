@@ -12,7 +12,7 @@
 # There are already newer versions, so I expect renovate to attempt to upgrade
 # this if I can figure out how to configure it properly.
 
-# renovate: datasource=go depName=golang.org/x/pkgsite versioning=semver-coerced
+# renovate: datasource=go depName=golang.org/x/pkgsite versioning=semver
 version='v0.0.0-20220921205104-d06df0691bf0'
 
 echo "$version"
