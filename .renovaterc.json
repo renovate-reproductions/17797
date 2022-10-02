@@ -6,7 +6,8 @@
       "fileMatch": ["^test\.bash$"],
       "matchStrings": [
         "datasource=(?<datasource>.+?) depName=(?<depName>.+?) versioning=(?<versioning>.+?)\\s\\w*version=['\"](?<currentValue>.+)['\"]\\s"
-      ]
+      ],
+      "currentDigestTemplate": "d06df0691bf0"
     }
   ]
 }
